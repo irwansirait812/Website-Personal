@@ -1,0 +1,1 @@
+// script.js (tidak diperlukan untuk contoh ini karena tidak ada interaksi JavaScript yang diperlukan)
